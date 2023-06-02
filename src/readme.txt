@@ -117,7 +117,7 @@ Contents of Submitted Files:
     - error
 
   3. decaf_ast.py
-    - Defines the node of the 
+    - Defines the node of the AST
     - typeChecking
 
   4. decaf_codegen.py
